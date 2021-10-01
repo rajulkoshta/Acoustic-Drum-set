@@ -1,12 +1,11 @@
 body {
   text-align: center;
-  /* background-color: #155E75; */
   background-image: url(images/bg.jpg) ;
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 h1 {
@@ -145,3 +144,4 @@ footer {
   display: inline;
   padding: 0rem 0.5rem;
 }
+
